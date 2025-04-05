@@ -1,0 +1,16 @@
+__pycache__/
+# IDE
+.idea/
+.vscode/
+# Environment
+.env
+.env.local
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.temp/
+.DS_Store
+Thumbs.db
