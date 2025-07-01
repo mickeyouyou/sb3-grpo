@@ -6,11 +6,11 @@
 
 - 基于 Stable Baselines3 框架
 - 实现了 Group Relative Policy Optimization (GRPO) 算法
-- 支持多智能体群组训练
+- add value iteration 
 - 提供相对策略优化机制
 - 支持自定义环境和奖励函数
 - 提供完整的训练和评估流程
 
 ## 快速开始
-
+![图片描述](./steps/value_function_35.png)
 ### 安装
